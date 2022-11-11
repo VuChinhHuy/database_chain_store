@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6315bcb24a5b253830f0aba7"
+  },
+  "namestore": "Choco - Linh Trung",
+  "address": "16C, Đ. số 8,Phường Linh Trung, Thành phố Thủ Đức, Thành phố Hồ Chí Minh",
+  "manager": {
+    "$oid": "62f80d3712eb42d3ecad1b6a"
+  },
+  "coordinates": [
+    {
+      "$numberDecimal": "10.855617147858881"
+    },
+    {
+      "$numberDecimal": "106.76983617390194"
+    }
+  ],
+  "create_at": null,
+  "create_user": "admin",
+  "update_user": "",
+  "update_at": null
+}]

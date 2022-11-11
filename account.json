@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "6308dd9b8f1e79e7b7344b97"
+  },
+  "username": "admin",
+  "password": {
+    "$binary": {
+      "base64": "KHgRgAFcy1YPevCG//D6BWReAUpJ9AJaC1SulrY6XQNeFZpSfofMzNhfMv3AgvkSf5Igf3GwyVqYX+NrOccxSg==",
+      "subType": "00"
+    }
+  },
+  "salt": {
+    "$binary": {
+      "base64": "Ppq/79QPGpvege6QTB23FvX0gv6wtwTQD+vsshLcsyvB3jUnp/VvKHUk3HgnZXE+AmyBYWEst8Xr1tDBScQH2FD3GGwc4e3FH70bkm655u3SushU0r7Hx1y8qR9gDtKIHgIAcVsOF+zGWWpaE9APobFkS0kpp6J1YUX/ItMEg0I=",
+      "subType": "00"
+    }
+  },
+  "create_at": {
+    "$date": {
+      "$numberLong": "1661525390845"
+    }
+  },
+  "update_at": null,
+  "create_user": "",
+  "update_user": null,
+  "role": "admin"
+},{
+  "_id": {
+    "$oid": "6316960109536286874312d8"
+  },
+  "username": "chocolinhtrung",
+  "password": {
+    "$binary": {
+      "base64": "6hUliN9DVP5SWNHMBG7cjtlH/7X7cdzC8wMInDMrN4aWhQhT5DzW5EeCTHsi1zNboptpsGH/RAjMeJad/hxirQ==",
+      "subType": "00"
+    }
+  },
+  "salt": {
+    "$binary": {
+      "base64": "+v1k9mnaOND8xiVEUB+MyPqw3R+tQWWTi11bPp2pj97V2u13WmI5y0pGphnqAClwHh327c79oydxFurAveGB2qM20e76/9e/8/Rez9ONOSBFUKpHZjHwgCABsspSuJVAnLrNxWyrXLON+87ZgpVANEhE/UP3Wyf/EeLIRyFklmw=",
+      "subType": "00"
+    }
+  },
+  "role": "staff",
+  "create_at": null,
+  "update_at": null,
+  "create_user": "admin",
+  "update_user": null
+},{
+  "_id": {
+    "$oid": "6316992009536286874312da"
+  },
+  "username": "huy",
+  "password": {
+    "$binary": {
+      "base64": "la7c5B17HyaDao6SvzbArI7Qp2IYNC5jKQwqn7qt0NvgYSGPO/ReIG/GFcN0/JfbhnZNPxs4k0m0QXdcklzLGA==",
+      "subType": "00"
+    }
+  },
+  "salt": {
+    "$binary": {
+      "base64": "8EthjvzkHx7ujNHiamXEOap9atRsnIL4m0WBiAlEa+0WT+XTf5tQkY9JwDVPLSMH4qKbECMSSJgX+qpOy8LIWwRRBofuDZ+x3kaOtvxQuRpd3GmppidnjvYudKHubOZZLt+NMAvQhgEt6eRt/CzOOAnnHLU/+F3oZPw8kfe0vj0=",
+      "subType": "00"
+    }
+  },
+  "role": "staff",
+  "create_at": null,
+  "update_at": null,
+  "create_user": "admin",
+  "update_user": null
+}]

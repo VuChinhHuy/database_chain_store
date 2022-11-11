@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "62f80d3712eb42d3ecad1b6a"
+  },
+  "fullname": "Choco Store",
+  "phone": "0367576744",
+  "address": "Linh Trung, Thủ Đức, HCM",
+  "accountId": {
+    "$oid": "62f80dff12eb42d3ecad1b6d"
+  }
+},{
+  "_id": {
+    "$oid": "6316969c09536286874312d9"
+  },
+  "fullname": "Vũ Chính Huy",
+  "birthday": {
+    "$date": {
+      "$numberLong": "973789200000"
+    }
+  },
+  "phone": "0367576744",
+  "address": "DT 741,Phường Long Phước, Thị xã Phước Long, Tỉnh Bình Phước",
+  "accountId": {
+    "$oid": "631694c909536286874312d6"
+  },
+  "storeId": {
+    "$oid": "6315bcb24a5b253830f0aba7"
+  },
+  "create_at": null,
+  "update_at": null,
+  "create_user": "admin",
+  "update_user": ""
+},{
+  "_id": {
+    "$oid": "6316992009536286874312db"
+  },
+  "fullname": "Vũ Chính Huy",
+  "birthday": {
+    "$date": {
+      "$numberLong": "973789200000"
+    }
+  },
+  "phone": "0367576744",
+  "address": "DT 741,Phường Phúc Xá, Quận Ba Đình, Thành phố Hà Nội",
+  "accountId": {
+    "$oid": "6316992009536286874312da"
+  },
+  "storeId": {
+    "$oid": "6315bcb24a5b253830f0aba7"
+  },
+  "create_at": null,
+  "update_at": null,
+  "create_user": "admin",
+  "update_user": ""
+}]

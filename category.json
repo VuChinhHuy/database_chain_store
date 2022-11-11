@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "631019341a43a0ab989d7705"
+  },
+  "name": " Quần nam",
+  "note": "",
+  "display": true,
+  "create_at": null,
+  "update_at": null,
+  "create_user": "admin",
+  "update_user": ""
+},{
+  "_id": {
+    "$oid": "63101b071a43a0ab989d7706"
+  },
+  "name": "Áo nam",
+  "note": "",
+  "display": true,
+  "create_at": null,
+  "update_at": null,
+  "create_user": "admin",
+  "update_user": ""
+},{
+  "_id": {
+    "$oid": "6311a6dc1a43a0ab989d7707"
+  },
+  "name": "Quần nữ",
+  "note": null,
+  "display": true,
+  "create_at": null,
+  "update_at": null,
+  "create_user": "admin",
+  "update_user": ""
+}]
